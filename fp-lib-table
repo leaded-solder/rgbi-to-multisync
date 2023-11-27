@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CUI_SDS_80J")(type "Legacy")(uri "${KIPRJMOD}/CUI_SDS_80J.pretty/SDS-80J.mod")(options "")(descr ""))
+  (lib (name "Connector_TE_AMP_HD15")(type "KiCad")(uri "${KIPRJMOD}/Connector_TE_AMP_HD15.pretty")(options "")(descr ""))
+)
