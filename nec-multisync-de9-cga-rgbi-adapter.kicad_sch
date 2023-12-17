@@ -947,6 +947,11 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 007f9a26-c881-4139-b2af-e28fe7d4b5b4)
   )
+  (text "TODO: This does not work on MultiSync 3D yet (no wakeup)"
+    (at 92.71 131.445 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 39f2904a-2228-4757-b5bb-46a0ce1b87b8)
+  )
   (text "From Japanese PC" (at 23.495 38.735 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 84d4c530-f385-4d04-b4c2-408510ffbc21)
